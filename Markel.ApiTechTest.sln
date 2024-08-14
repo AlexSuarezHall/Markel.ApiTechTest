@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markel.Repositories", "Markel.Repositories\Markel.Repositories.csproj", "{AF4D7CC7-829B-4B97-9110-2B7DF4FCBFB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markel.Tests", "Markel.Tests\Markel.Tests.csproj", "{0EAC2FB0-4120-42B4-A745-747F694FB459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markel.API", "Markel.Api\Markel.API.csproj", "{57035910-3C18-4DEA-83D2-F92D2375018F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markel.Data", "Markel.Data\Markel.Data.csproj", "{670E6791-CF88-49C3-BD32-4254DD5D7195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4D7CC7-829B-4B97-9110-2B7DF4FCBFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4D7CC7-829B-4B97-9110-2B7DF4FCBFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4D7CC7-829B-4B97-9110-2B7DF4FCBFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4D7CC7-829B-4B97-9110-2B7DF4FCBFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAC2FB0-4120-42B4-A745-747F694FB459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAC2FB0-4120-42B4-A745-747F694FB459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAC2FB0-4120-42B4-A745-747F694FB459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAC2FB0-4120-42B4-A745-747F694FB459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57035910-3C18-4DEA-83D2-F92D2375018F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57035910-3C18-4DEA-83D2-F92D2375018F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57035910-3C18-4DEA-83D2-F92D2375018F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57035910-3C18-4DEA-83D2-F92D2375018F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670E6791-CF88-49C3-BD32-4254DD5D7195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670E6791-CF88-49C3-BD32-4254DD5D7195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670E6791-CF88-49C3-BD32-4254DD5D7195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670E6791-CF88-49C3-BD32-4254DD5D7195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D1EA31-70DD-433A-9FEA-3F3E2FF18D20}
+	EndGlobalSection
+EndGlobal
